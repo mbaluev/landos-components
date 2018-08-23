@@ -1,0 +1,36 @@
+{
+  "name": "landos-components",
+  "version": "1.0.0",
+  "description": "web components for landing",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-rename": "^1.2.2"
+  },
+  "devDependencies": {
+    "autoprefixer-core": "^6.0.1",
+    "browser-sync": "^2.18.12",
+    "gulp-clean-css": "^3.4.1",
+    "gulp-cleancss": "^0.2.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-css-url-adjuster": "^0.2.3",
+    "gulp-minify": "^1.0.0",
+    "gulp-postcss": "^7.0.0",
+    "gulp-rename": "^1.2.2",
+    "html2bl": "git+https://github.com/dab/html2bl.git",
+    "path": "^0.12.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/mbaluev/landos-components"
+  },
+  "keywords": [
+    "landos"
+  ],
+  "author": "mbaluev",
+  "license": "ISC"
+}
